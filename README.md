@@ -1,6 +1,8 @@
 # meetups
 
-A repo por managing Barcelona meetups.
+A repo por managing Barcelona meetups:
+
+- [DistSysBCN](distsys/)
 
 ## howto
 
@@ -11,6 +13,6 @@ We can try a README.md driven-development:
 - the meetup README could have an index with a brief description of every file
 - you can use the issues to discuss about topics for your meetup, or where to host the events, who are going etc.
 
-## start a new meetup
+### start a new meetup
 
 Just create a PR holding the new directory and its README.
