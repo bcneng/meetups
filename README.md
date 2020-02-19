@@ -1,12 +1,12 @@
 # meetups
 
-A repo por managing Barcelona meetups:
+A repo to manage a Barcelona meetups:
 
 - [DistSysBCN](distsys/)
 
 ## howto
 
-We can try a README.md driven-development:
+README.md driven-development:
 
 - each root directory represents a meetup and has a README.md
 - inside there are files per meetup event, you could use the YYYYmmdd prefix to be lexicographically sorted by date
